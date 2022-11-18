@@ -113,7 +113,7 @@
     { R46, R45, R44, R43, R42, R41, XXX } \
 }
 
-#define LAYOUT LAYOUT_4key
+#define LAYOUT LAYOUT_3key_2us
 
 #else
 // Keymap with right side flipped
