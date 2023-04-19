@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "ErgoDash-Low rev1.0",
+    "manufacturer": "Settuz",
+    "url": "",
+    "maintainer": "qmk",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x6060",
+        "device_version": "1.0.0"
+    }
+}
