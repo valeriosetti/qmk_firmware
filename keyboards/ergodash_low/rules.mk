@@ -1,0 +1,23 @@
+# MCU name
+MCU = atmega32u4
+
+# Bootloader selection
+BOOTLOADER = qmk-dfu
+
+# Build Options
+#   change yes to no to disable
+#
+BOOTMAGIC_ENABLE = no
+MOUSEKEY_ENABLE = no
+EXTRAKEY_ENABLE = yes
+CONSOLE_ENABLE = yes
+COMMAND_ENABLE = no
+NKRO_ENABLE = no
+BACKLIGHT_ENABLE = no
+AUDIO_ENABLE = no
+RGBLIGHT_ENABLE = no
+DYNAMIC_KEYMAP_ENABLE = no
+SPLIT_KEYBOARD = yes
+BACKLIGHT_DRIVER = no
+DEBUG_ENABLE = no
+OLED_DRIVER = no
